@@ -1,0 +1,77 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  height: 100px;
+  text-align: center;
+}
+
+.header__title {
+  text-transform: uppercase;
+  margin-top: 1em;
+  color: #e67e22;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-shadow: 5px 5px 10px rgba(52, 152, 219, 0.25);
+}
+
+.header__msg {
+  color: #e74c3c;
+  font-weight: 500;
+}
+
+.logo {
+  width: 430px;
+  height: 263px;
+}
+
+.table-list {
+  margin: 5em 0;
+  width: 50%;
+}
+
+.table-list__title {
+  margin-bottom: .5em;
+}
+
+.table-list__table {
+  width: 100%;
+  box-shadow: 0 .5em 1em #dadada;
+  border-radius: .5em;
+  padding: .5em;
+  text-align: center;
+}
+
+.table-list__item {
+  padding: 1em;
+  margin: 1em;
+}
+
+.table-list__item:hover {
+  background-color: #e67e22;
+  text-shadow: 0 0 .2em #000; 
+}
+
+/* Formatação para component Link do React Router Dom */
+.table-list a {
+  color: #e67e22;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.table-list__line:nth-child(odd) {
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+}
+
+.table-list__line:nth-child(even) {
+  background-color: #3498DB;
+  width: 100%;
+  height: 100%;
+  text-shadow: 0 0 .2em #000;
+}

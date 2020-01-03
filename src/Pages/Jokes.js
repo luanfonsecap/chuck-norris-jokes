@@ -1,18 +1,13 @@
 import React from "react";
-
-import "./App.css";
-
-import store from "./store";
 import { Provider } from "react-redux";
 
-import List from "./Components/List";
+import store from "../store";
+import List from "../Components/Joke/Index";
 
-function App() {
+export default function Jokes() {
   return (
     <Provider store={store}>
       <List />
     </Provider>
   );
 }
-
-export default App;

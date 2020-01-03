@@ -1,0 +1,29 @@
+.content {
+  background-image: url('../../assets/bg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.joke-box {
+  background-color: #e67e22;
+  padding: 2em;
+  border-radius: .2em;
+  max-width: 500px;
+}
+
+.joke-box__text {
+  color: #fff;
+  font-weight: bold;
+}
+
+.btn-area {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1em;
+}
