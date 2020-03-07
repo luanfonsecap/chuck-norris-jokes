@@ -15,7 +15,7 @@ ou
 npm start
 ```
 
-### Prerequisites
+### Prerequisitos
 
 É necessário tem o ambiente básico para rodar uma aplicação React.
 
