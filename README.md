@@ -17,11 +17,11 @@ ou
 npm start
 ```
 
-### Prerequisitos
+### :hammer:Pré requisitos
 
 É necessário tem o ambiente básico para rodar uma aplicação React.
 
-### :hammer: Tecnologias usadas
+### :scroll: Tecnologias usadas
 
 * React
 * React Router Dom
