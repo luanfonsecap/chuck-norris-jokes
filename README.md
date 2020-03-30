@@ -4,6 +4,8 @@ Aplicação Web que exibe piadas sobre o personagem Chuck Norris selecionadas a 
 
 Dados utilizados são consumidos pela api do [Chuck Norris Io](https://api.chucknorris.io/).
 
+![Logo Chuck Norris io](https://github.com/luanfonsecap/chuck-norris-jokes/blob/master/src/assets/chucknorris_logo.png?raw=true)
+
 ## Iniciando
 
 Clone ou faça download do repositório e instale as dependências do projeto.
