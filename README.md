@@ -9,7 +9,7 @@ Dados utilizados são consumidos pela api do [Chuck Norris Io](https://api.chuck
 ## :rocket: Iniciando
 
 Clone ou faça download do repositório e instale as dependências do projeto.
-Ao finalizar navegye até a pasta e rode o comando:
+Ao finalizar navegue até a pasta e rode o comando:
 
 ```
 yarn start
@@ -17,7 +17,7 @@ ou
 npm start
 ```
 
-### :hammer:Pré requisitos
+### :hammer: Pré requisitos
 
 É necessário tem o ambiente básico para rodar uma aplicação React.
 
