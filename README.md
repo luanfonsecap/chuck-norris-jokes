@@ -29,7 +29,7 @@
 
 **Chuck Norris Jokes** é uma aplicação que consome a API <a href="https://api.chucknorris.io/">Chuck Norris Io</a> e exibe piadas de forma randômica apartir de uma categoria selecionada.
 
-demo
+<img alt="Example" src="https://raw.githubusercontent.com/luanfonsecap/chuck-norris-jokes/master/assets/chuck-norris-jokes-example.gif" />
 
 <br>
 
