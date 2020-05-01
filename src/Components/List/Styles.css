@@ -63,6 +63,10 @@
   text-decoration: none;
 }
 
+.table-list a:hover {
+  color: #fff;
+}
+
 .table-list__line:nth-child(odd) {
   background-color: #fff;
   width: 100%;
